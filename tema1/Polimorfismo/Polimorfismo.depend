@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1524755985 source:c:\users\usuario\documents\poo2°a\polimorfismo\main.cpp
+	<iostream>
+	"Soporte.h"
+	"Redes.h"
+	"Programador.h"
+
+1524754286 source:c:\users\usuario\documents\poo2°a\polimorfismo\src\empleado.cpp
+	"Empleado.h"
+
+1524754387 c:\users\usuario\documents\poo2°a\polimorfismo\include\empleado.h
+	<string>
+	<iostream>
+
+1524754286 source:c:\users\usuario\documents\poo2°a\polimorfismo\src\soporte.cpp
+	"Soporte.h"
+
+1524754286 c:\users\usuario\documents\poo2°a\polimorfismo\include\soporte.h
+	<Empleado.h>
+
+1524754813 source:c:\users\usuario\documents\poo2°a\polimorfismo\src\redes.cpp
+	"Redes.h"
+
+1524756072 c:\users\usuario\documents\poo2°a\polimorfismo\include\redes.h
+	<Empleado.h>
+
+1524755818 source:c:\users\usuario\documents\poo2°a\polimorfismo\src\programador.cpp
+	"Programador.h"
+
+1524755849 c:\users\usuario\documents\poo2°a\polimorfismo\include\programador.h
+	<Empleado.h>
+
