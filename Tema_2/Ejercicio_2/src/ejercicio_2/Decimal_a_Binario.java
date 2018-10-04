@@ -7,18 +7,18 @@ package ejercicio_2;
 
 /**
  *
- * @author Usuario
+ * @author Manuel Arturo Tuz May 
  */
 public class Decimal_a_Binario {
 
    
         
         public static void decBin(int n) {
-        if (n < 2) {
+        if (n < 2) {//Si el numero ingresado es menor a 2 simplemente imprime
             System.out.print(n);
-        } else {
-            decBin(n / 2);
-            System.out.print(n % 2);
+        } else {//en caso contrario se ejecuta la otra parte 
+            decBin(n / 2);//divide al numero y retorna la funcion
+            System.out.print(n % 2);//imprime el resultado hasta que el if se cumpla
         } }
    
 }
