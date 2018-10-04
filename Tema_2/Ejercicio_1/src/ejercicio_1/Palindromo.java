@@ -7,7 +7,7 @@ package ejercicio_1;
 
 /**
  *
- * @author Usuario
+ * @author Manuel Arturo Tuz May 
  */
 public class Palindromo {
     
