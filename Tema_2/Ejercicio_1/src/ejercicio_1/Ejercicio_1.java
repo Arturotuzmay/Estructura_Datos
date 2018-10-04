@@ -7,7 +7,7 @@ package ejercicio_1;
 import java.util.Scanner;
 /**
  *
- * @author Usuario
+ * @author Manuel Arturo Tuz May 
  */
 public class Ejercicio_1 {
 
