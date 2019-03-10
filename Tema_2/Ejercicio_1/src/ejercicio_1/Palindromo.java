@@ -19,5 +19,7 @@ public class Palindromo {
             return nomChars[a] == nomChars[b-1] && EsPalindromo(nomChars,a + 1, b -1);//realiza las comparaciones entre letras
                                                                                       // de forma recursiva      
         }
+        
+        //HOLA K ASE, AHORA ESTE PROYECTO LE PERTENECE A ALEJANDRO CUPUL :V
  }
 }
